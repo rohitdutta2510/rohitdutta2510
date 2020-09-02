@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ![Rohit Dutta' Github Stats](https://github-readme-stats.vercel.app/api?username=rohitdutta2510&show_icons=true&hide-border=true&theme=dracula)
+
+###  Connect with me
+[<img align="left" alt="rohit dutta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rohit dutta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="rohit dutta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[facebook]:https://www.facebook.com/rohitdutta2510
+[instagram]: https://www.instagram.com/aami_rohit
+[linkedin]: https://in.linkedin.com/in/rohit-dutta-64722b183
