@@ -1,5 +1,5 @@
 ### Hi there 👋 
-This is Rohit Dutta every day trying to do something new & something better.
+This is Rohit Dutta trying to do something new & something better everyday.
 
 ### Languages and Tools:
 
